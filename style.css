@@ -33,7 +33,7 @@
 
  
   /* responsive design */
-  @media (max-width: 600px) {
+  @media (max-width: 400px) {
     .box{
       display: flex;
       justify-content: space-around;
